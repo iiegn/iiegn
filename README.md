@@ -1,4 +1,12 @@
-### Hi there 👋
+[orcid](https://orcid.org/0000-0002-7655-5526)
+[zotero](http://zotero.org/iiegn)
+[google-scholar](https://scholar.google.it/citations?user=uHqa8ooAAAAJ)
+[semantic-scholar](https://www.semanticscholar.org/author/2991702)
+[twitter](https://twitter.com/iiegn)
+[github](https://github.com/iiegn)
+[gitlab](https://gitlab.inf.unibz.it/egon.stemle)
+[keybase](https://keybase.io/iiegn)
+[cv](https://github.com/iiegn/pub/raw/master/CV/CV_en.pdf)
 
 <!--
 **iiegn/iiegn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
